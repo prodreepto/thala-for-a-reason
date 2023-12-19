@@ -1,0 +1,66 @@
+body{
+    background: linear-gradient(0deg,#f0c808,#fff1d0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+*{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+h1{
+    text-align: center;
+    margin: 0px auto;
+    color: #086788;
+    font-weight:900 ;
+    
+}
+.card
+{
+    width: 60vw;
+    margin: 40px auto;
+    border: 5px solid #06aed5;
+    border-radius: 15px;
+    background-color: #fff1d04f;
+    padding: 40px 5px;
+
+}
+.form{
+    display: flex;
+    flex-wrap: nowrap;
+}
+input{
+    color: #06aed5;
+    height: 70px;
+    border-radius: 15px;
+    text-align:center ;
+    width: 100%;
+    font-size: 20px;
+}
+.input
+{
+    width:180px;
+    margin: 20px auto;
+    text-align: center;
+}
+.output
+{
+    color: #dd1c1a;
+    font-size: 15px;
+    font-weight: 900;
+    text-align: center;
+}
+.socials
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.input button{
+    color: #06aed5;
+    height: 70px;
+    border-radius: 15px;
+    text-align:center ;
+    width: 100%;
+    font-size: 20px;
+}
